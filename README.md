@@ -1,4 +1,4 @@
-# agnoster.zsh-theme
+# kourosh.zsh-theme
 My own ZSH theme forked from `agnoster.zsh-theme`
 
 ## What does it show?
